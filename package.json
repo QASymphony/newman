@@ -50,7 +50,7 @@
     "postman-collection": "0.5.5",
     "postman-collection-transformer": "1.7.7",
     "postman-request": "2.74.1-postman.1",
-    "postman-runtime": "git://github.com/minhhai2209/postman-runtime.git#6caca1f",
+    "postman-runtime": "git://github.com/minhhai2209/postman-runtime.git#1625695",
     "pretty-ms": "2.1.0",
     "semver": "5.3.0",
     "serialised-error": "1.1.2",
